@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Armando&#39;s Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://armando.ooo/</link>
     <description>Recent content on Armando&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Armando Orozco</copyright>
     <lastBuildDate>Sun, 19 May 2024 22:22:34 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://armando.ooo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://armando.ooo/about/</link>
       <pubDate>Sun, 19 May 2024 22:22:34 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://armando.ooo/about/</guid>
       <description>Hi my name is Armando Orozco.&#xA;I am a Computer Science student at Santa Ana College. I&amp;rsquo;m currently expected to transfer to a 4-year institution in Fall of 2027 to gain more hands-on experiences in my major.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/post-1/</link>
+      <link>https://armando.ooo/posts/post-1/</link>
       <pubDate>Sun, 19 May 2024 21:31:03 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-1/</guid>
+      <guid>https://armando.ooo/posts/post-1/</guid>
       <description>My Carrer Im a computer science student at Santa Ana College.&#xA;see my github here</description>
     </item>
   </channel>

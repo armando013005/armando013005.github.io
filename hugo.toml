@@ -4,7 +4,7 @@ theme="archie"
 title = "Armando's Site"
 copyright = "© Armando Orozco" 
 
-favicon = "icons/bichota.png"
+favicon = "https://i.imgur.com/2yBIYjr.jpeg"
 
 license = "MIT"
 licenselink = "https://github.com/athul/archie/blob/master/LICENSE"

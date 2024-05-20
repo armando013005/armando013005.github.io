@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://armando.ooo/about/</loc>
     <lastmod>2024-05-19T22:22:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://armando.ooo/</loc>
     <lastmod>2024-05-19T22:22:34-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>https://armando.ooo/posts/post-1/</loc>
     <lastmod>2024-05-19T21:31:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://armando.ooo/posts/</loc>
     <lastmod>2024-05-19T21:31:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://armando.ooo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://armando.ooo/tags/</loc>
   </url>
 </urlset>
