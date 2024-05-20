@@ -1,30 +1,25 @@
-baseURL = "https://example.com"
+baseURL = "https://armando.ooo/"
 languageCode = "en-us"
 title = "Armando Orozco"
 theme="archie"
 copyright = "© Armando Orozco"
+license = "MIT"
+licenselink = "https://github.com/athul/archie/blob/master/LICENSE"
+
+
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
 [params]
-	mode="auto"
+	mode="toggle"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Hi welcome to my page I will post discoveries or things new stuff I have learned here :) "
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/athulcajay/"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+url = "https://github.com/armando013005"
 
 [[menu.main]]
 name = "Home"
@@ -40,8 +35,3 @@ weight = 2
 name = "About"
 url = "/about"
 weight = 3
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
