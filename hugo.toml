@@ -4,23 +4,19 @@ theme="archie"
 title = "Armando's Site"
 copyright = "© Armando Orozco" 
 
-favicon = "https://i.imgur.com/2yBIYjr.jpeg"
-
-license = "MIT"
-licenselink = "https://github.com/athul/archie/blob/master/LICENSE"
-
 
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=3
+
+paginate=4
 
 [params]
+	favicon = "https://img.icons8.com/officel/16/000000/chevron-right.png"
 	mode="toggle"
 	useCDN=false
 	subtitle = "Hi welcome to my page, here I will post discoveries or things and stuff I have learned :) "
-	favicon = "icons/myicon.png"
 
 [[params.social]]
 	name = "GitHub"
