@@ -1,8 +1,8 @@
 baseURL = "https://armando.ooo/"
 languageCode = "en-us"
-theme="archie"
+theme = "archie"
 title = "Armando's Site"
-copyright = "© Armando Orozco"
+copyright = "© Armando Orozco" 
 
 license = "MIT"
 licenselink = "https://github.com/athul/archie/blob/master/LICENSE"
