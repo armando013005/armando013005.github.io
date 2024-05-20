@@ -1,6 +1,6 @@
 baseURL = "https://armando.ooo/"
 languageCode = "en-us"
-theme = "archie"
+theme="archie"
 title = "Armando's Site"
 copyright = "© Armando Orozco" 
 
