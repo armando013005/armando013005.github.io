@@ -4,6 +4,8 @@ theme="archie"
 title = "Armando's Site"
 copyright = "© Armando Orozco" 
 
+favicon = "icons/bichota.png"
+
 license = "MIT"
 licenselink = "https://github.com/athul/archie/blob/master/LICENSE"
 
@@ -17,7 +19,7 @@ paginate=3
 [params]
 	mode="toggle"
 	useCDN=false
-	subtitle = "Hi welcome to my page I will post discoveries or things new stuff I have learned here :) "
+	subtitle = "Hi welcome to my page, here I will post discoveries or things and stuff I have learned :) "
 	favicon = "icons/myicon.png"
 
 [[params.social]]
