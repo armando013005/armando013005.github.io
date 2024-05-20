@@ -1,8 +1,9 @@
-+++
-title = 'About Me'
-date = 2024-05-19T22:22:34-07:00
-draft = false
-+++
+---
+title: 'About Me'
+date: 2024-05-19T22:22:34-07:00
+draft: false
+disqus: false
+---
 
 Hi my name is **Armando Orozco**. 
 

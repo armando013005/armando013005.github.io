@@ -1,8 +1,9 @@
 baseURL = "https://armando.ooo/"
 languageCode = "en-us"
-title = "Armando Orozco"
 theme="archie"
+title = "Armando's Site"
 copyright = "© Armando Orozco"
+
 license = "MIT"
 licenselink = "https://github.com/athul/archie/blob/master/LICENSE"
 
@@ -11,27 +12,31 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+paginate=3
+
 [params]
 	mode="toggle"
 	useCDN=false
 	subtitle = "Hi welcome to my page I will post discoveries or things new stuff I have learned here :) "
+	favicon = "icons/myicon.png"
 
 [[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/armando013005"
+	name = "GitHub"
+	icon = "github"
+	url = "https://github.com/armando013005"
+
 
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+	name = "Home"
+	url = "/"
+	weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+	name = "All posts"
+	url = "/posts"
+	weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+	name = "About"
+	url = "/about"
+	weight = 3
