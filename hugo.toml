@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 paginate=4
 
 [params]
-	favicon = "https://img.icons8.com/officel/16/000000/chevron-right.png"
+	favicon = "/icons/myicon.png"
 	mode="toggle"
 	useCDN=false
 	subtitle = "Hi welcome to my page, here I will post discoveries or things and stuff I have learned :) "
