@@ -1,22 +1,21 @@
 baseURL = "https://armando.ooo/"
 languageCode = "en-us"
-theme="archie"
-title = "Armando's Site"
-copyright = "© Armando Orozco" 
+theme = "archie"
 
+title = "armando.ooo"
+copyright = "© Armando Orozco" 
 
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-
-paginate=4
+paginate=3
 
 [params]
 	favicon = "/icons/myicon.png"
-	mode="toggle"
-	useCDN=false
-	subtitle = "Hi welcome to my page, here I will post discoveries or things and stuff I have learned :) "
+	mode = "dark"
+	useCDN = false
+	subtitle = "Hi welcome to my page :) "
 
 [[params.social]]
 	name = "GitHub"
