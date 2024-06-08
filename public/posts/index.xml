@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Armando Orozco</copyright>
-    <lastBuildDate>Sun, 19 May 2024 21:31:03 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 15:11:22 -0700</lastBuildDate>
     <atom:link href="https://armando.ooo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://armando.ooo/posts/post-1/</link>
-      <pubDate>Sun, 19 May 2024 21:31:03 -0700</pubDate>
-      <guid>https://armando.ooo/posts/post-1/</guid>
-      <description>My Carrer Im a computer science student at Santa Ana College.&#xA;see my github here</description>
+      <title>This Page</title>
+      <link>https://armando.ooo/posts/this-page/</link>
+      <pubDate>Sat, 08 Jun 2024 15:11:22 -0700</pubDate>
+      <guid>https://armando.ooo/posts/this-page/</guid>
+      <description>What is this? This is my blog page where I might or might not post interesting stuff that I have learned through my time.&#xA;Building process I build this page with HUGO, a framework that offers a diverse set of templates to create a page of your own. I got a domain from porkbun.com and then hosted using GitHub pages.&#xA;Everything is very straightforward, after downloading the dependencies, which is only, Go and the HUGO framework itself.</description>
     </item>
   </channel>
 </rss>
