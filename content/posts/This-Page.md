@@ -24,9 +24,11 @@ after this and of course with git pre-installed I ran a command
 
 ``` CLI
 hugo new site YOUR SITE NAME
-cd quickstart
+cd YOUR SITE NAME
 git init
+cd themes
 git submodule add "YOUR THEME REPO"
+cd..
 echo "theme = 'THEME NAME'" >> hugo.toml
 hugo server
 ```
